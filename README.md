@@ -1,3 +1,9 @@
+mecab-python3-2018
+------------------
+
+This is a fork of https://github.com/SamuraiT/mecab-python3, which is a fork of https://github.com/taku910/mecab/tree/master/mecab/python .
+Below is the original README of mecab-python3.
+
 mecab-python3
 -------------
 This python wrapper for mecab works on both **python3.x** and **python2.x**.
